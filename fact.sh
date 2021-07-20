@@ -7,4 +7,4 @@ do
 	sum=`expr $m \* $sum`
 	m=`expr $m - 1`
 done
-echo "The factorial of $a is :$sum"
+echo "The factorial is $a is :$sum"
